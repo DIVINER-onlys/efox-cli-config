@@ -10,12 +10,12 @@
 {
   "projects": [
     {
-      "name": "efox",
-      "value": "efox"
+      "name": "webpack",
+      "value": "webpack"
     },
     {
-      "name": "i18n",
-      "value": "i18n"
+      "name": "flutterBlog",
+      "value": "flutterBlog"
     }
   ]
 }
