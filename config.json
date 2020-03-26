@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "webpack",
+      "value": "webpack"
+    },
+    {
+      "name": "flutterBlog",
+      "value": "flutterBlog"
+    }
+  ]
+}
